@@ -16,6 +16,7 @@ https://github.com/Kushal-Chandar/kshell/assets/83660514/08c91024-863d-4e49-ba45
 ### Path Command
 
 Path command is used to toggle viewing the path and not viewing it, in the prompt
+
 https://github.com/Kushal-Chandar/kshell/assets/83660514/e9d69c8b-b255-48d9-b05a-ccf7fc4df5c3
 
 ### Git WorkFlow Demo
