@@ -1,6 +1,12 @@
 # kshell
 A simple shell written in go lang.
 
+## Usage
+
+```pwsh
+go build && .\kshell.exe
+```
+
 ## Demo
 
 A few videos showing its wokring.
