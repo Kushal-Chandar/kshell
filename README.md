@@ -1,4 +1,7 @@
 # kshell
+
+[![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white)](https://nextjs.org/blog/next-13)
+
 A simple shell written in go lang.
 
 ## Usage
